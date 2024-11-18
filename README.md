@@ -7,4 +7,4 @@ El **Modulo Integrado Reguistro de estudiantes** es una herramienta digital dise
 ## Créditos
 Este proyecto fue desarrollado por:
 - **Ana Elizabeth Mamani Apaza**: Creadora principal y desarrolladora backend.
-- **V.H.**: Colaboradora en diseño y funcionalidades adicionales.
+- **LS.V**: Colaboradora en diseño y funcionalidades adicionales.
